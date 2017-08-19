@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <manifest>
 <!-- Sync location -->
 <remote name="bl-angler" fetch="https://github.com/architek" />
@@ -345,6 +346,5 @@
 <remove-project name="platform/packages/apps/CertInstaller"  /> 
 <remove-project name="platform/packages/apps/KeyChain" /> 
 <remove-project name="android_packages_apps_PackageInstaller" /> 
-
 
 </manifest>
