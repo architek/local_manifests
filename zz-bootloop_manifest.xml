@@ -10,7 +10,6 @@
 <!--remove-project name="android_device_huawei_angler"/-->
 <project name="android_device_huawei_angler" path="device/huawei/angler" revision="android-7.1-test" remote="bl-angler"/>
 <!-- Override Kernel -->
-<remove-project name="android_kernel_huawei_angler"/>
 <project name="android_kernel_huawei_angler" path="kernel/huawei/angler" revision="android-7.1-test" remote="bl-angler"/>
 
 <!-- Additional stuffs -->
